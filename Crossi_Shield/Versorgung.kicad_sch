@@ -1030,6 +1030,10 @@
     (effects (font (size 1.27 1.27) bold) (justify right bottom))
     (uuid bd92acbf-39cf-45e8-9fd0-031a41e045bb)
   )
+  (label "BOOT" (at 146.05 40.64 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fdb1787b-f1bf-4eab-912c-d2eea3a53b63)
+  )
 
   (hierarchical_label "5V" (shape input) (at 276.86 40.64 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27) bold) (justify left))
@@ -1552,8 +1556,8 @@
     (property "Datasheet" "~" (at 95.25 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f0607679-2790-4d83-86cf-c07ee05e91d0))
-    (pin "2" (uuid 2064a44d-2ab2-4845-abb8-78ee6f3c0f10))
+    (pin "1" (uuid ff83efc4-d2df-4ad5-956d-7981290de1ce))
+    (pin "2" (uuid 60316251-df1c-420f-b957-c9bddaf1b2e5))
     (instances
       (project "Crossi_Shield"
         (path "/da1a3662-bd33-45fa-9d2c-eaee6b865c8d/c17fc743-7136-45d3-b972-526bc4fa3c6a"
