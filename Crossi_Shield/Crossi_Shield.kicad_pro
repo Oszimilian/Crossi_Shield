@@ -193,7 +193,15 @@
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
-    "viewports": []
+    "viewports": [
+      {
+        "h": 66420764.354350954,
+        "name": "Nur beschriftung",
+        "w": 103831736.94629566,
+        "x": 50284131.52685304,
+        "y": 108756763.08982107
+      }
+    ]
   },
   "boards": [],
   "cvpcb": {
